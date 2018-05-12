@@ -1,0 +1,38 @@
+_repo: The-Mathematical-Historical-Principles-and-the-Evolution-of-Liberty_30174
+_version: 0.1.0
+alternative_title: Los Principios Matemático-Históricos y la Evolución de la Libertad.
+  English
+contributor:
+  translator:
+    agent_name: Ferrer de Domínguez, Asunción
+    aliases:
+    - Dominguez, Asuncion Ferrer de
+    - Domínguez, Asunción Ferrer de
+    gutenberg_agent_id: '42561'
+    url: http://www.gutenberg.org/2009/agents/42561
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fernández Bolívar, Víctor José
+    aliases:
+    - Bolívar, Víctor José Fernández
+    - Bolivar, Victor Jose Fernandez
+    birthdate: 1923
+    gutenberg_agent_id: '34417'
+    url: http://www.gutenberg.org/2009/agents/34417
+description: ''
+gutenberg_issued: '2009-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30174'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcc 'D'
+title: The Mathematical-Historical Principles and the Evolution of Liberty
+url: http://www.gutenberg.org/ebooks/30174
